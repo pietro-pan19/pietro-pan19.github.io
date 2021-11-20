@@ -1,0 +1,49 @@
+@media only screen and (max-width: 750px) {
+  img {max-width: 100%;}
+}
+
+body {
+  -webkit-text-size-adjust: 100%;
+  font-size: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+.contact-form {
+  text-align: center;
+  text-decoration: none;
+}
+.contact-form > p {
+  padding: 64px 0 0;
+}
+
+textarea {
+  resize: none;
+  width: 350px;
+  height: 250px;
+}
+.name-submit {
+  margin: 32px 0;
+}
+
+.link1 {
+  font-size: 100%;
+}
+a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 100%;
+  color: black;
+}
+
+footer {
+  font-size: 100%;
+  padding: 32px 0;
+  background: #92663d;
+  color: black;
+  text-align: center;
+}
+ul,li {
+  margin: 0;
+  list-style: none;
+  padding: 16px;
+}
